@@ -1,0 +1,19 @@
+.header-container{
+    background-image: url(https://res.cloudinary.com/dqhoi1bfi/image/upload/v1689592806/img-1_ylh7ag.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 500px;
+    max-height: 500px !important;
+    position: relative;
+   /* z-index: 1; */
+}
+.header-container::after{
+    content: '';
+    background-color: rgba(0, 0, 0, .6);
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+}
