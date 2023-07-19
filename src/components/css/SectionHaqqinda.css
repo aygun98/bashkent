@@ -1,0 +1,25 @@
+.section-haqqinda-right button{
+    background-color: var(--bg-primary2);
+    color:var(--primary1);
+    padding: 12px 18px;
+    font-size: 18px;
+    width: 240px;
+}
+.section-haqqinda-right button:hover{
+    animation: titreme 1s ease infinite;
+    border-color: var(--bg-primary2);
+    background-color: var(--bg-primary2);
+}
+@media (max-width:991px) {
+    .section-haqqinda-right{
+        padding-bottom: 20px;
+    }
+    .section-haqqinda.row{
+       flex-direction: column-reverse;
+    }
+}
+@media (max-width:360px) {
+    .section-haqqinda-right button{
+        width: 200px;
+    }
+}

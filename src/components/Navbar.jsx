@@ -41,7 +41,7 @@ const Navbar = ({searchmenuOpen, setMobileMenuOpen, fixed}) => {
             <nav className='container d-flex justify-content-between '>
                 <Link className={`${fixed? "fixed-logo" :'fixed-logo-display'}`}><img  className='w-100' src={Logo} alt="" /></Link>
                 <NavLink style={{minWidth:120}}>Əsas Səhifə</NavLink>
-                <NavLink>Haqqımızda </NavLink>
+                <NavLink to='Anaseyfe'>Haqqımızda </NavLink>
                 <NavLink>Filiallar</NavLink>
                 <NavLink>Yeməklər</NavLink>
                 <NavLink>Qalereya</NavLink>

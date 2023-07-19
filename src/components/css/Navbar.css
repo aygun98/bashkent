@@ -8,7 +8,7 @@
 .navbar-top-container {
     z-index: 2;
     background-color: var(--bg-primary1);
-    padding: 20px 0;
+    padding: 15px 0;
 }
 .navbar-top-container-relative{
     position: relative;
@@ -61,9 +61,18 @@
 
 .navbar-top-icon {
     color: var(--primary1);
-    font-size: 25px;
+    font-size: 23px;
 }
-
+.navbar-top-icons>span{
+    display: inline-block;
+    padding: 6px 5px;
+}
+.navbar-top-icons>span:hover{
+    background-color: var(--bg-primary2);
+    border-radius: 50px;
+    transform: translateY(-5px);
+    transition: 500ms;
+}
 .nabvar-bottom {
     /* position: relative; */
     z-index: 2;
@@ -101,6 +110,7 @@
 
 .navbar-search {
     border-bottom: 1px solid var(--primary1);
+  
 
 }
 

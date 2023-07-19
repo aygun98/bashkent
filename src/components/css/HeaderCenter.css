@@ -8,6 +8,11 @@
     font-weight: 500;
 
 }
+.header-center-companents button:hover{
+    animation: titreme 1s ease infinite;
+    border-color: var(--bg-primary2);
+    background-color: var(--bg-primary2);
+}
 
 .header-center-companents {
     position: relative;
@@ -49,6 +54,18 @@
     .header-center-companents button {
         font-size: 20px;
         padding: 9px 27px;
+
+    }
+}
+@media (max-width:360px) {
+    .header-center-companents h1 {
+        color: var(--primary1);
+        font-size: 16px;
+    }
+
+    .header-center-companents button {
+        font-size: 16px;
+        padding: 6px 25px;
 
     }
 }

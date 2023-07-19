@@ -18,7 +18,7 @@ const NavbarMobile = ({ mobileClose }) => {
                 <div className='navbar-mobile-top-img'><img className='w-100' src={MLogo} alt="" /></div>
                 <button onClick={mobileClose}><FaXmark /></button>
             </div>
-            <div className="navbar-mobile-center d-flex flex-column justify-content-center align-items-center ">
+            <div className="navbar-mobile-center d-flex flex-column justify-content-start align-items-center ">
                 <div className="center-links d-flex flex-column justify-content-center align-items-center">
                     <NavLink>Əsas Səhifə</NavLink>
                     <NavLink>Haqqımızda </NavLink>

@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "img":"https://res.cloudinary.com/dqhoi1bfi/image/upload/v1689773832/img-1_cgyule.png",
+        "title":"Əsas yeməklər"
+    },
+    {
+        "id": 2,
+        "img":"https://res.cloudinary.com/dqhoi1bfi/image/upload/v1689773833/img-2_wz1rex.png",
+        "title":"Qəlyanaltılar"
+    },
+    {
+        "id": 3,
+        "img":"https://res.cloudinary.com/dqhoi1bfi/image/upload/v1689773832/img-3_gwpeek.png",
+        "title":"Şorbalar"
+    },
+    {
+        "id": 4,
+        "img":"https://res.cloudinary.com/dqhoi1bfi/image/upload/v1689773832/img-4_co2htu.png",
+        "title":"Salatlar"
+    },
+    {
+        "id": 5,
+        "img":"https://res.cloudinary.com/dqhoi1bfi/image/upload/v1689773832/img-5_tywum6.png",
+        "title":"Sirniyyatlar"
+    },
+    {
+        "id": 6,
+        "img":"https://res.cloudinary.com/dqhoi1bfi/image/upload/v1689773832/img-6_tlj0au.png",
+        "title":"İçkiler"
+    }
+]

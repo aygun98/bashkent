@@ -1,0 +1,32 @@
+[
+    {
+        "id":1,
+        "img":"https://res.cloudinary.com/dqhoi1bfi/image/upload/v1689770638/img-2_pn181r.png",
+        "title": "Başkənt Nerimanov"
+    },
+    {
+        "id":2,
+        "img":"https://res.cloudinary.com/dqhoi1bfi/image/upload/v1689770638/img-1_ohgbv9.png",
+        "title": "Başkənt 28 May"
+    },
+    {
+        "id":3,
+        "img":"https://res.cloudinary.com/dqhoi1bfi/image/upload/v1689770638/img-3_qvnkrw.png",
+        "title": "Başkənt Memar Əcəmi"
+    },
+    {
+        "id":4,
+        "img":"https://res.cloudinary.com/dqhoi1bfi/image/upload/v1689770638/img-2_pn181r.png",
+        "title": "Başkənt Nerimanov"
+    },
+    {
+        "id":5,
+        "img":"https://res.cloudinary.com/dqhoi1bfi/image/upload/v1689770638/img-1_ohgbv9.png",
+        "title": "Başkənt 28 May"
+    },
+    {
+        "id":6,
+        "img":"https://res.cloudinary.com/dqhoi1bfi/image/upload/v1689770638/img-3_qvnkrw.png",
+        "title": "Başkənt Memar Əcəmi"
+    }
+]

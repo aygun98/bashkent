@@ -1,0 +1,17 @@
+.title-section {
+    
+    margin: 0 auto;
+}
+.title-section  h1{
+    
+   text-align: center;
+}
+.title-section > div{
+ width: 150px;
+ /* position: absolute; */
+
+ margin:-25px auto  20px;
+}
+/* .title-section > div> img{
+ position: absolute;
+} */
