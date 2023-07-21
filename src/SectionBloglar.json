@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "img": "https://res.cloudinary.com/dqhoi1bfi/image/upload/v1689937969/img-3_xukvyz.jpg",
+        "title": "Qəhvə haqqında məlumatlar",
+        "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Officiis a aperiam nihil quam tempora, laborum suscipit autem fuga optio expedita eligendi quia officia voluptate quod porro assumenda earum deleniti? Accusantium deserunt nemo animi debitis corrupti, hic tempora atque unde modi? Culpa rerum autem praesentium eius nobis illum libero dolore eligendi fuga recusandae obcaecati aspernatur corrupti distinctio minima deleniti rem consectetur porro veritatis, omnis quia provident consequuntur mollitia perferendis. Optio quae harum perferendis enim? Maiores odit maxime qui magnam cum, enim dicta eveniet accusantium deleniti amet tempore fuga, voluptas illo minus iste eligendi beatae asperiores? Voluptas nihil laboriosam accusamus obcaecati quos.",
+        "date": "21-02-2023"
+    },
+    {
+        "id": 2,
+        "img": "https://res.cloudinary.com/dqhoi1bfi/image/upload/v1689937967/img-2_gt2m7d.jpg",
+        "title": "Cheescakenin sağlamlığa faydalı ilk resepti",
+        "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Officiis a aperiam nihil quam tempora, laborum suscipit autem fuga optio expedita eligendi quia officia voluptate quod porro assumenda earum deleniti? Accusantium deserunt nemo animi debitis corrupti, hic tempora atque unde modi? Culpa rerum autem praesentium eius nobis illum libero dolore eligendi fuga recusandae obcaecati aspernatur corrupti distinctio minima deleniti rem consectetur porro veritatis, omnis quia provident consequuntur mollitia perferendis. Optio quae harum perferendis enim? Maiores odit maxime qui magnam cum, enim dicta eveniet accusantium deleniti amet tempore fuga, voluptas illo minus iste eligendi beatae asperiores? Voluptas nihil laboriosam accusamus obcaecati quos.",
+        "date": "21-03-2023"
+    },
+    {
+        "id": 3,
+        "img": "https://res.cloudinary.com/dqhoi1bfi/image/upload/v1689937967/img-1_qaxvnm.jpg",
+        "title": "Sezar salatının maraqlı tarixçəsi",
+        "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Officiis a aperiam nihil quam tempora, laborum suscipit autem fuga optio expedita eligendi quia officia voluptate quod porro assumenda earum deleniti? Accusantium deserunt nemo animi debitis corrupti, hic tempora atque unde modi? Culpa rerum autem praesentium eius nobis illum libero dolore eligendi fuga recusandae obcaecati aspernatur corrupti distinctio minima deleniti rem consectetur porro veritatis, omnis quia provident consequuntur mollitia perferendis. Optio quae harum perferendis enim? Maiores odit maxime qui magnam cum, enim dicta eveniet accusantium deleniti amet tempore fuga, voluptas illo minus iste eligendi beatae asperiores? Voluptas nihil laboriosam accusamus obcaecati quos.",
+        "date":" 21-04-2023"
+    }
+]

@@ -43,7 +43,7 @@ const Header = () => {
     <div className='header-container'>
         <Navbar fixed={fixed} searchmenuOpen={searchmenuOpen} setMobileMenuOpen={mobileOpen}/>
         <HeaderCenter/>
-        <div className={`bg-search-section ${searchOpen? 'search-active' : ''}  d-flex align-items-center justify-content-center `} onClick={()=>(setSearchOpen(false))}>
+        <div className={`bg-search-section ${searchOpen? 'search-active' : ''}  d-flex align-items-center justify-content-center `} onDoubleClick={()=>(setSearchOpen(false))}>
        <SearchSection/>
        </div>
        <div className={`bg-navbar-mobile ${mobileMenuOpen? 'bg-mobile-aktive' : ''}`} onClick={mobileClose} ></div>

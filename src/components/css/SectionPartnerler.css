@@ -1,0 +1,9 @@
+.section-partnerler .partner-card{
+    width: 220px;
+    margin: 0 auto;
+}
+@media (max-width:500px) {
+    .section-partnerler .partner-card{
+        width: 150px;
+    }
+}
