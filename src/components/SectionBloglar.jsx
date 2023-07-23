@@ -64,19 +64,7 @@ const SectionBloglar = () => {
       </Swiper>
 
 
-      {/* <div className="blog-cart card">
-        <div className="blog-cart-top">
-          <div className=""><img className='w-100' src={img} alt="" /></div>
-          <span>21-02-2023</span>
-        </div>
-        <div className="blog-cart-bottom pt-4 px-3">
-          <h2 className=''>Qəhvə haqqında məlumatlar</h2>
-          <span></span>
-          <p className='text-center'>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Officiis a aperiam nihil quam tempora, laborum suscipit autem  ...</p>
-          <Link> <button>Ətraflı </button> <HiArrowSmRight className='blog-arrow-icon' /></Link>
-        </div>
-
-      </div> */}
+     
     </div>
   )
 }
